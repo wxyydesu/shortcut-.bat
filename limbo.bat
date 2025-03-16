@@ -1,4 +1,5 @@
 @echo off
+:: jangan lupa Sesuaikan path LIMBO MASTERNYA | LIMBO GD WINDOWS By quasar098 | https://github.com/quasar098/limbos32
 cd C:\Games\limbos32-master
 echo Running LIMBO
 echo Pls Wait....
